@@ -17,6 +17,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 	plaid "github.com/plaid/plaid-go/v3/plaid"
+
+	// Include Supergood library here
 	supergood "github.com/supergoodsystems/supergood-go"
 )
 
@@ -49,7 +51,7 @@ func init() {
 	if err == nil {
 		http.DefaultClient = sg.DefaultClient
 	}
-	// ^^ ADDED SUPERGOOD HERE ^^
+	// ^^ END SUPERGOOD HERE ^^
 
 	// set constants from env
 	PLAID_CLIENT_ID = os.Getenv("PLAID_CLIENT_ID")
