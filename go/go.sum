@@ -144,8 +144,8 @@ github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
-github.com/supergoodsystems/supergood-go v0.0.0-20230616234148-497cb06a0476 h1:AGGdfKwSxf0J8v4gp2aZ3Sg50zPYhRPbQ1FGVe5hX2M=
-github.com/supergoodsystems/supergood-go v0.0.0-20230616234148-497cb06a0476/go.mod h1:3A6ufTkle89dMgxiFu/fEQvaZSSESpERZB43x9aDYTg=
+github.com/supergoodsystems/supergood-go v0.1.1 h1:cNInWbrJ6kV4i3Gp0sUly4/GAakMfIx1RZz956pEUsg=
+github.com/supergoodsystems/supergood-go v0.1.1/go.mod h1:3A6ufTkle89dMgxiFu/fEQvaZSSESpERZB43x9aDYTg=
 github.com/ugorji/go v1.1.4 h1:j4s+tAvLfL3bZyefP2SEWmhBzmuIlH/eqNuPdFPgngw=
 github.com/ugorji/go v1.1.4/go.mod h1:uQMGLiO92mf5W77hV/PUCpI3pbzQx3CRekS0kk+RGrc=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

@@ -51,7 +51,6 @@ func init() {
 	if err == nil {
 		http.DefaultClient = sg.DefaultClient
 	}
-	// ^^ END SUPERGOOD HERE ^^
 
 	// set constants from env
 	PLAID_CLIENT_ID = os.Getenv("PLAID_CLIENT_ID")
